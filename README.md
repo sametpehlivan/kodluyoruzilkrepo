@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
-Bu repo []Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçersinde bir adet README dosyası, bir adet de index.html barındırıyor.
-
+Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçersinde bir adet README dosyası, bir adet de index.html barındırıyor.
+![](/kodluyoruzilkrepo/index.html)
 ## Installation
 
 
